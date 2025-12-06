@@ -18,7 +18,7 @@ example-02/
   - explanation.md
   - app
   
-... (Bu yapıyı example-10'a kadar manuel olarak eklemeyi unutmayın)
+
 =======
 # operating-system-labs
 
