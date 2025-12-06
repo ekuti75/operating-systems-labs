@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Operating Systems Laboratory Exercises
 
 This repository contains the laboratory exercises for the Operating Systems course.
@@ -18,3 +19,6 @@ example-02/
   - app
   
 ... (Bu yapıyı example-10'a kadar manuel olarak eklemeyi unutmayın)
+=======
+# operating-system-labs
+
